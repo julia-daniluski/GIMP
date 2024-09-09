@@ -1,4 +1,4 @@
-## ATIVIDADES FEITAS NO GIMB
+## ATIVIDADES FEITAS NO GIMP
 <BR>
 <BR>
 <strong>Imagens manipuladas</strong>
