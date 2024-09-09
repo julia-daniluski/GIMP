@@ -10,3 +10,6 @@
 -> Atividade 3: Tirar ohomem da foto
 <BR>
 -> Atividade 4: Tirar o casal da foto
+<BR>
+-> Atividade 5: Banner de edição
+
